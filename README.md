@@ -81,7 +81,7 @@ The system includes modules such as:
 
 - GitHub: https://github.com/VickyCoder21
 - Portfolio: https://vignesh-portfolio-code.vercel.app/
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: https://www.linkedin.com/in/vigneshp21/
 
 ## ▶️ Run Locally
 
